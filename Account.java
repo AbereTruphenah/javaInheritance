@@ -11,7 +11,7 @@ class BankAccount{
 		this.acPhone=acPhone;
 		this.acBalance=acBalance;
 	}
-	public void accountholder()//method
+	public void accountholder()
 	{
 		System.out.println("Account Number :"+acNo);
 		System.out.println("Account Holder Name :"+acName);
