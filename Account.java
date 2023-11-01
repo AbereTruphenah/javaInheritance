@@ -56,7 +56,6 @@ public class Account {
 				cac.accountholder();
 				cac.deposit(300);
 				cac.displayBalance();
-
-	}
+}
 
 }
